@@ -1,0 +1,11 @@
+,Order_ID,Customer_Name,Product,Category,Price,Quantity,Total_Amount,City,Payment_Method,Order_Date
+0,1001,Asif,Laptop,Electronics,75000,1,75000,Dhaka,Card,2026-04-01
+1,1002,Rahim,Mobile,Electronics,25000,2,50000,Chittagong,Cash,2026-04-01
+2,1003,Karim,Headphones,Accessories,2000,3,6000,Dhaka,bKash,2026-04-02
+3,1004,Shariar,Tablet,Electronics,30000,1,30000,Khulna,Card,2026-04-02
+4,1005,Tashin,Camera,Electronics,45000,1,45000,Rajshahi,Cash,2026-04-03
+5,1006,Rubaba,Laptop,Electronics,80000,1,80000,Dhaka,Card,2026-04-03
+6,1007,Nisa,Smartwatch,Accessories,5000,2,10000,Sylhet,bKash,2026-04-04
+7,1008,Fatin,Mobile,Electronics,27000,1,27000,Dhaka,Cash,2026-04-05
+8,1009,Humaira,Keyboard,Accessories,1500,4,6000,Barisal,Card,2026-04-05
+9,1010,Tamim,Mouse,Accessories,800,5,4000,Dhaka,bKash,2026-04-06
